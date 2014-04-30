@@ -13,6 +13,8 @@ Mentor: Sandeep R V ([@sandeeprv](https://github.com/sandeeprv))
 Mentor: Shrikrishna Holla ([@shrikrishnaholla](https://github.com/shrikrishnaholla))
 3. [Rework of eezyReport](https://github.com/pesos/PES-SoC-14/issues/5)  
 Mentor: Sathyam Vellal ([@sathyamvellal](https://github.com/sathyamvellal))
+4. [Smart Keys](https://github.com/pesos/PES-SoC-14/issues/3)  
+Mentor: Muralidhara K S ([@KSM161](https://github.com/KSM161))
 
 ---
 
