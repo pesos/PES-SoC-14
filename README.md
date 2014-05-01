@@ -1,7 +1,7 @@
 PES-SoC-14
 ==========
 
-Student explore on the selected ideas and communicate with mentors to learn more about the projects.
+Student explore on the selected ideas and communicate with mentors to learn more about the projects. You can get all details in the [Wiki](https://github.com/pesos/PES-SoC-14/wiki)
 
 # Selected Ideas
 
