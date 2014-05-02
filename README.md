@@ -15,7 +15,7 @@ Mentor: Shrikrishna Holla ([@shrikrishnaholla](https://github.com/shrikrishnahol
 Mentor: Sathyam Vellal ([@sathyamvellal](https://github.com/sathyamvellal))
 4. [Smart Keys](https://github.com/pesos/PES-SoC-14/issues/3)  
 Mentor: Muralidhara K S ([@KSM161](https://github.com/KSM161))
-5. [](https://github.com/pesos/PES-SoC-14/issues/6)  
+5. [World News Reporter](https://github.com/pesos/PES-SoC-14/issues/6)  
 Mentor: Vidhisha Nair ([@vidhishanair](https://github.com/vidhishanair)) and ([@shruthichari](https://github.com/shruthichari))
 
 ---
