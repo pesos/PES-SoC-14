@@ -22,4 +22,4 @@ Mentor: Vidhisha Nair ([@vidhishanair](https://github.com/vidhishanair)) and ([@
 
 #### Coming Next: 
 
-Student Applications start from May 17. 
+Student application period from May 19 (19:00) to June 2 (19:00). More details in the [Student Application Process Details Wiki Page](https://github.com/pesos/PES-SoC-14/wiki/Student-Application-Process-Details)
